@@ -1,15 +1,12 @@
 <template>
   <div>
     <h1>node依赖分析</h1>
-    <el-progree></el-progree>
+    <ResultGragh></ResultGragh>
   </div>
 </template>
 
 <script setup lang="ts">
-import elementui from 'element-ui';
-
+import ResultGragh from '@/components/ResultGragh.vue'
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
