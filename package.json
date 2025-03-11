@@ -15,14 +15,21 @@
   },
   "dependencies": {
     "@antv/g6": "^5.0.42",
+    "@koa/cors": "^5.0.0",
+    "d3": "^7.9.0",
+    "echarts": "^5.6.0",
     "element-plus": "^2.9.4",
     "element-ui": "^2.15.14",
+    "koa": "^2.15.4",
+    "koa-body": "^6.0.1",
+    "koa-router": "^13.0.1",
     "pinia": "^2.3.1",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.0",
+    "@types/d3": "^7.4.3",
     "@types/jsdom": "^21.1.7",
     "@types/node": "^22.10.7",
     "@vitejs/plugin-vue": "^5.2.1",

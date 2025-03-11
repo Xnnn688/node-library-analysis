@@ -7,6 +7,7 @@
 
 <script setup lang="ts">
 import ResultGragh from '@/components/ResultGragh.vue'
+
 </script>
 
 <style scoped></style>
